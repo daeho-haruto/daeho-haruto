@@ -25,3 +25,6 @@
 ### 🌈기타
 - 취미 - 💪헬스 🎞영화감상 🖱프로그래밍 공부
 - MBTI - 😉ENFP(재기발랄한 활동가)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeho-haruto&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daeho-haruto&layout=compact&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/daeho-haruto/github-readme-stats)
