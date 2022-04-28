@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Daeho's%20git&descAlignY=51&descAlign=71)
 
-## Welcome 👋
+# Welcome 👋
 
 ### 🙎‍♂️김대호를 소개합니다
 - 🎓 서울로봇고등학교 첨단로봇시스템과에 재학 중입니다.
