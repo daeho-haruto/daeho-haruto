@@ -19,3 +19,6 @@
 ### 📱SNS
 <a href="https://www.instagram.com/kho_o4/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/kho_04-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.instagram.com/k.haruto__/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/k.haruto__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
+### 🌈취미 및 관심사
+<img src="https://img.shields.io/badge/health-001E6C?style=flat-square&logo=health#&logoColor=white"/></a>
