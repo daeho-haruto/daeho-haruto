@@ -28,7 +28,7 @@
 - 특기 - 🎌일본어
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimdaeho2004)](https://solved.ac/kimdaeho200)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimdaeho2004)](https://solved.ac/kimdaeho2004)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeho-haruto&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daeho-haruto&layout=compact&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/daeho-haruto/github-readme-stats)
