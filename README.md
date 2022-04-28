@@ -15,3 +15,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-A85CF9?style=flat-square&logo=cplusplus#&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ROS-A85CF9?style=flat-square&logo=ros#&logoColor=white"/></a>
+
+### 📝공부예정 tech stack
+<img src="https://img.shields.io/badge/C#-A85CF9?style=flat-square&logo=C##&logoColor=white"/></a>
