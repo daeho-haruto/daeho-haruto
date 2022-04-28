@@ -14,4 +14,4 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-A85CF9?style=flat-square&logo=CPP&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-A85CF9?style=flat-square&logo=C&logoColor=white"/></a>
