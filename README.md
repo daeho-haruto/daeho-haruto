@@ -27,8 +27,8 @@
 - MBTI - 😉ENFP(재기발랄한 활동가)
 - 특기 - 🎌일본어
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimdaeho2004)](https://solved.ac/kimdaeho2004)
+<!-- [![Solved.ac -->
+<!-- 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimdaeho2004)](https://solved.ac/kimdaeho2004) -->
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeho-haruto&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
