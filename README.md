@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/ROS-001E6C?style=flat-square&logo=ros#&logoColor=white"/></a>
 
 ### [포트폴리오](https://green-thunder-8aa.notion.site/1312ce8ef2484e59803d6c41d90b82d4)
-### - 아직 미완성입니다. (진행중)
+ - 아직 미완성입니다. (진행중)
 
 ### 📱SNS
 <a href="https://www.instagram.com/kho_o4/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/kho_04-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
