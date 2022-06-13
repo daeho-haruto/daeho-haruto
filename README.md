@@ -18,6 +18,9 @@
 <img src="https://img.shields.io/badge/C++-4B7BE5?style=flat-square&logo=cplusplus#&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ROS-001E6C?style=flat-square&logo=ros#&logoColor=white"/></a>
 
+## 포트폴리오링크
+<a href="https://www.notion.so/1312ce8ef2484e59803d6c41d90b82d4" target="_blank">
+
 ### 📱SNS
 <a href="https://www.instagram.com/kho_o4/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/kho_04-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.instagram.com/k.haruto__/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/k.haruto__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
