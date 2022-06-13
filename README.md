@@ -18,8 +18,8 @@
 <img src="https://img.shields.io/badge/C++-4B7BE5?style=flat-square&logo=cplusplus#&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ROS-001E6C?style=flat-square&logo=ros#&logoColor=white"/></a>
 
-## 포트폴리오링크
-<a href="https://www.notion.so/1312ce8ef2484e59803d6c41d90b82d4" target="_blank">
+##[포트폴리오](https://green-thunder-8aa.notion.site/1312ce8ef2484e59803d6c41d90b82d4)
+### - 아직 미완성입니다. (진행중)
 
 ### 📱SNS
 <a href="https://www.instagram.com/kho_o4/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/kho_04-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -29,6 +29,7 @@
 - 취미 - 💪헬스 🎞영화감상 🖱프로그래밍 공부
 - MBTI - 😉ENFP(재기발랄한 활동가)
 - 특기 - 🎌일본어
+- github - github를 자주 사용해 보지 않아 예전 프로젝트들은 못 올렸습니다.
 
 <!-- [![Solved.ac -->
 <!-- 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimdaeho2004)](https://solved.ac/kimdaeho2004) -->
