@@ -5,16 +5,15 @@
 ### 🙎‍♂️김대호를 소개합니다
 - 🎓 서울로봇고등학교 첨단로봇시스템과에 재학 중입니다.
 - 💻 영상처리, 자율주행 알고리즘 개발에 관심이 많습니다.
-- ⌨ 또한 요즘에는 백엔드 개발에도 관심을 가지고 있습니다.
+- ⌨ 꾸준히 학습하는 것을 좋아합니다.
 
 ### 📚공부했던 tech stack
 <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JAVA-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 
 ### 🛠공부중인 tech stack
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C#-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-4B7BE5?style=flat-square&logo=cplusplus#&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ROS-001E6C?style=flat-square&logo=ros#&logoColor=white"/></a>
 
@@ -29,6 +28,7 @@
 - 취미 - 💪헬스 🎞영화감상 🖱프로그래밍 공부
 - MBTI - 😉ENFP(재기발랄한 활동가)
 - 특기 - 🎌일본어
+- TMI - 로봇을 정말 귀여워하고 제가 만든 코드로 동작시키는 것을 좋아합니다.
 - github - github를 자주 사용해 보지 않아 예전 프로젝트들은 못 올렸습니다.
 
 <!-- [![Solved.ac -->
