@@ -10,10 +10,10 @@
 ### 📚공부했던 tech stack
 <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JAVA-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JAVA-A8B9CC?style=flat-square&logo=JAVA&logoColor=white"/></a>
 
 ### 🛠공부중인 tech stack
-<img src="https://img.shields.io/badge/Csharp-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat"/></a>
 <img src="https://img.shields.io/badge/C++-4B7BE5?style=flat-square&logo=cplusplus#&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ROS-001E6C?style=flat-square&logo=ros#&logoColor=white"/></a>
 
