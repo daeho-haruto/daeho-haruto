@@ -9,4 +9,4 @@
 - 취미 - 💪헬스 🎞영화감상 🖱프로그래밍 공부
 - MBTI - 😉ENFP(재기발랄한 활동가)
 - 특기 - 🎌일본어
-- 노션 - <a href="https://whimsical-plot-f17.notion.site/a39bf0903f0f432ba37361f2c4600e4d">영화</a>
+- 노션 - <a href="[https://whimsical-plot-f17.notion.site/a39bf0903f0f432ba37361f2c4600e4d](https://whimsical-plot-f17.notion.site/Jack-c2872df18d7b4d809fe61ef7ccfef88c)">jack</a>
